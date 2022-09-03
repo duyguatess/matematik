@@ -1,4 +1,4 @@
-# matematik
+# Matematik
 ## BENİ ŞAŞIRTAN BİLGİ:
 * Solda sıfır sözünü hepimiz günlük hayatımızda kullanıyoruz.Değersiz, önemsiz, karşılaştırıldığında değersizliği anlaşılan anlamına geliyor.
 Somut bir şekilde anlamını okuyana dek matematik ile ilgisini görememiştim.
